@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-08-19T02:41:32.147440400Z</date>
+  <millis>1629340892147</millis>
+  <nanos>440400</nanos>
+  <sequence>1</sequence>
+  <logger>org.ssglobal.training.codes.FunList</logger>
+  <level>WARNING</level>
+  <class>org.ssglobal.training.codes.FunList</class>
+  <method>enableDisplay</method>
+  <thread>1</thread>
+  <message>custom Date is deprecated</message>
+</record>
+</log>
+Aug 19, 2021 10:44:59 AM org.ssglobal.training.codes.FunList enableDisplay
+INFO: execute enableDisplay
+Aug 19, 2021 10:44:59 AM org.ssglobal.training.codes.FunList enableDisplay
+WARNING: custom Date is deprecated
+Aug 19, 2021 10:44:59 AM org.ssglobal.training.codes.FunList showLines
+INFO: execute showLines
+Aug 19, 2021 10:44:59 AM org.ssglobal.training.codes.FunList showLines
+INFO: exit without errors showLines
+Aug 19, 2021 10:44:59 AM org.ssglobal.training.codes.FunList enableDisplay
+INFO: execute without errors enableDisplay
